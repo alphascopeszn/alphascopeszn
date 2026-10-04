@@ -1,16 +1,13 @@
-## Hi there 👋
+# hi, alphascopeszn here 👋
 
-<!--
-**alphascopeszn/alphascopeszn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build CI/CD pipelines and containerized infrastructure, mostly on Kubernetes with Terraform underneath. Lately I've been deep in GitHub Actions reusable workflows and trying to make our deploy times boringly predictable. I care about developer tooling because the less time people spend fighting their environment, the more actual shipping happens.
 
-Here are some ideas to get you started:
+- 🔭 Terraform modules for multi-env EKS clusters with drift detection.
+- happy to pair on open-source stuff
+- probably overthinking a database schema right now
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphascopeszn&layout=compact&langs_count=8&hide_border=true&theme=merko" alt="Top languages" />
+
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=alphascopeszn&hide_border=true&theme=xcode" alt="Contribution graph" />
+
+<img src="https://img.shields.io/badge/GitHub%20Actions-bd93f9?style=for-the-badge&logoColor=white" alt="GitHub Actions" /> <img src="https://img.shields.io/badge/Terraform-bd93f9?style=for-the-badge&logoColor=white" alt="Terraform" /> <img src="https://img.shields.io/badge/Linux-bd93f9?style=for-the-badge&logoColor=white" alt="Linux" /> <img src="https://img.shields.io/badge/Bash-bd93f9?style=for-the-badge&logoColor=white" alt="Bash" />
